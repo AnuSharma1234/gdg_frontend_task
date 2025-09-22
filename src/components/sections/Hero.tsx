@@ -41,7 +41,7 @@ const Hero = () => {
         {/* Main Content Area - Hero Image */}
         <div className="relative mb-8 md:mb-12 flex justify-center">
           <Image
-            src="/images/hero.png"
+            src="/images/Hero.png"
             alt="Google Developer Groups Hero"
             width={600}
             height={400}

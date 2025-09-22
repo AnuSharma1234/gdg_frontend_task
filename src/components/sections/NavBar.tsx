@@ -23,7 +23,7 @@ export default function NavBar() {
         {/* Logo Section */}
         <div className="flex items-center">
           <Image
-            src="/images/logo.png"
+            src="/images/Logo.png"
             alt="GDG RCOEM Logo"
             width={32}
             height={32}
